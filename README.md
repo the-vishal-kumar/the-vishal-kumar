@@ -1,6 +1,6 @@
 ### Hello :world_map:
 
-I'm **[Vishal Kumar](https://www.linkedin.com/in/the-vishal-kumar/)**, a software engineer by morning, an aspiring entrepreneur by evening, and a blogger by night and my portal is [fungyaan.wordpress.com](https://fungyaan.wordpress.com). I love to gather attention and help others. I want to be immortal and live forever…
+I'm **[Vishal Kumar](https://www.linkedin.com/in/the-vishal-kumar/)**, a software engineer by morning, an aspiring entrepreneur by evening, and a blogger by night and my portal is [funGyaan.com](https://funGyaan.com). I love to gather attention. I want to be immortal and live forever…
 
 ### :gear: My skills include:
 
@@ -18,9 +18,7 @@ I'm **[Vishal Kumar](https://www.linkedin.com/in/the-vishal-kumar/)**, a softwar
 [![Vishal Kumar's Github Stats](https://github-readme-stats.vercel.app/api?username=the-vishal-kumar)](https://github.com/the-vishal-kumar/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-vishal-kumar)](https://github.com/the-vishal-kumar/)
 
-:handshake: Happy to help!
-
-:hugs: Thank You! :v:
+:handshake: Happy to help! :v:
 
 ----
 
