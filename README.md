@@ -4,12 +4,46 @@ I'm **[Vishal Kumar](https://www.linkedin.com/in/the-vishal-kumar/)**, a softwar
 
 ### :gear: My skills include:
 
-- **Languages**: `JavaScript`, `C`, `C++`
-- **Backend**: `Node.js with ExpressJs, Hapi & Fastify frameworks`, `Serverless Functions (AWS Lambda & Firebase Cloud Functions)`, `Socket.IO`, `Micro-service architecture`, `DB Sharding`, `Nginx & SSL Certification`, `Email Gateway (Mailgun & Postmark)`, `SMS & Whatsapp Gateway (Twilio)`, `Push Notifications (Firebase)`, `CI/CD (AWS Amplify & CircleCI)`, `Heroku`, `PM2`, `Swagger`
-- **Database**: `MongoDb`, `Redis`, `Firebase Firestore`, `MySQL`, `PostgreSQL`
-- **Frontend**: `React Native with Redux`, `ReactJs with NextJs framework`
-- **Testing frameworks**: `Mocha`, `Chai`
-- **Technical Practices**: `Agile`, `Test Driven Development`, `REST API Design`
+- **Languages**: `JavaScript`, `Python`, `C`, `C++`
+- **Backend**:
+    - `NodeJs with Adonis, Fastify, HapiJs & Express frameworks`
+    - `Python`
+    - `Serverless Functions (AWS Lambda & Firebase Cloud Functions)`
+    - `Socket.IO`
+    - `GraphQL`
+    - `DB Sharding`
+    - `Email Gateway (Mailgun & Postmark)`
+    - `SMS & Whatsapp Gateway (Twilio)`
+    - `Push Notifications (Firebase)`
+    - `CI/CD (CircleCI)`
+    - `Swagger`
+    - `Puppeteer`
+- **Database**: 
+    - `MongoDb`
+    - `DynamoDb`
+    - `Redis`
+    - `Firebase Firestore`
+    - `MySQL`
+    - `PostgreSQL`
+- **DevOps**:
+    - `Nginx Web Server & SSL Certification`
+    - `Heroku`
+    - `AWS`
+    - `GCP`
+    - `PM2`
+    - `Docker`
+- **Frontend**:
+    - `React Native with Redux`
+    - `ReactJs with NextJs framework`
+- **Testing frameworks**:
+    - `Jest`
+    - `Mocha`
+    - `Chai`
+- **Technical Practices**:
+    - `Agile`
+    - `Test Driven Development`
+    - `REST API Design`
+    - `Micro-service architecture`
 
 ### :octocat: Open Source
 
