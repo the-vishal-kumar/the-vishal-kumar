@@ -4,7 +4,6 @@ I'm **[Vishal Kumar](https://www.linkedin.com/in/the-vishal-kumar/)**, a softwar
 
 ### :gear: My skills include:
 
-- **Languages**: `JavaScript`, `Python`, `C`, `C++`
 - **Backend**:
     - `NodeJs with Adonis, Fastify, HapiJs & Express frameworks`
     - `Python`
@@ -39,6 +38,17 @@ I'm **[Vishal Kumar](https://www.linkedin.com/in/the-vishal-kumar/)**, a softwar
     - `Jest`
     - `Mocha`
     - `Chai`
+- **Programming Languages**:
+    - `JavaScript`
+    - `Python`
+    - `C`, `C++`
+- **Code Versioning Tools**:
+    - `GitHub`
+    - `Bitbucket`
+- **Servers**
+    - `AWS (EC2, S3 Bucket, Route 53, Amplify)`
+    - `Digital Ocean (Droplets)`
+    - `BlueHost`
 - **Technical Practices**:
     - `Agile`
     - `Test Driven Development`
@@ -49,8 +59,9 @@ I'm **[Vishal Kumar](https://www.linkedin.com/in/the-vishal-kumar/)**, a softwar
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/the-vishal-kumar/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/the-vishal-kumar?tab=repositories)
 
-[![Vishal Kumar's Github Stats](https://github-readme-stats.vercel.app/api?username=the-vishal-kumar)](https://github.com/the-vishal-kumar/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-vishal-kumar)](https://github.com/the-vishal-kumar/)
+[![Vishal Kumar's Github Stats](https://github-readme-stats.vercel.app/api?theme=dark&username=the-vishal-kumar)](https://github.com/the-vishal-kumar/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=the-vishal-kumar)](https://github.com/the-vishal-kumar/)
 
 :handshake: Happy to help! :v:
 
