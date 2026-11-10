@@ -2,7 +2,7 @@
 
 **Associate Director of Engineering at [CapGrid](https://capgrid.in)** · 10+ years building distributed, multi-tenant SaaS and AI-driven platforms · AWS Certified Solutions Architect – Professional
 
-I lead a 20-engineer organization and own CapGrid's entire infrastructure, while staying hands-on as a 50% individual contributor. I turn business goals into platform architecture, engineering standards and roadmaps, and I care about cost, reliability and security as much as features.
+I lead a 20-engineer organization and own CapGrid's entire infrastructure, while staying hands-on as a ~50% individual contributor. I turn business goals into platform architecture, engineering standards and roadmaps, and I care about cost, reliability and security as much as features.
 
 📍 Gurugram, India · Open to relocation within the EU
 
@@ -34,12 +34,12 @@ I lead a 20-engineer organization and own CapGrid's entire infrastructure, while
 
 ### Reference work in public
 
-Clean-room versions of the patterns I lead at work, built small and finished, with measured results. No employer code or data.
+Clean-room versions of the patterns I lead at work: small, finished and tested. Results are measured where the code can run locally. No employer code or data.
 
 - **[engineering-standards](https://github.com/the-vishal-kumar/engineering-standards)**: the standards kit I'd hand a new team: a reusable CI quality gate, PR/ADR/postmortem templates, release-readiness checklist, on-call and DR runbooks, and how to measure the effect
 - **[tech-strategy-onepager](https://github.com/the-vishal-kumar/tech-strategy-onepager)**: a one-page technology strategy template with a worked (fictional) example: architecture, roadmap, risks, cost model and hiring plan
-- **[multi-tenant-event-driven-ref](https://github.com/the-vishal-kumar/multi-tenant-event-driven-ref)**: multi-tenant order processing with Postgres row-level security, idempotency keys, a transactional outbox to SQS, a Go worker with retries and a DLQ, end-to-end tracing, Terraform for AWS, and a measured load test
-- **[llm-document-ingestion](https://github.com/the-vishal-kumar/llm-document-ingestion)**: purchase orders in any format (email, Excel, PDF, images) to schema-validated JSON, with rules and an LLM, per-field confidence, catalog matching, a human-review queue and a reproducible eval
+- **[multi-tenant-event-driven-ref](https://github.com/the-vishal-kumar/multi-tenant-event-driven-ref)**: multi-tenant order processing with Postgres row-level security, idempotency keys, a transactional outbox to SQS, a Go worker with retries and a DLQ, end-to-end tracing, Terraform for AWS (validated, not applied), and a load test measured locally
+- **[llm-document-ingestion](https://github.com/the-vishal-kumar/llm-document-ingestion)**: purchase orders (email, CSV, Excel, PDF; images with a vision model) to schema-validated JSON, with rules and an LLM, per-field confidence, catalog matching, a human-review queue and a reproducible eval
 
 ### Tools I maintain
 
