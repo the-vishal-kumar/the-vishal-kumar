@@ -25,18 +25,27 @@ I lead a 20-engineer organization and own CapGrid's entire infrastructure, while
 | 2025 – now | **Associate Director of Engineering**, CapGrid | 20 engineers, full infrastructure ownership (promoted from SDE 3), engineering standards (CI/CD, release governance, observability), cloud cost −86%, Big Four tech audit, mentoring senior engineers into tech leads |
 | 2023 – 2025 | **Software Development Engineer 3**, CapGrid | AI order ingestion (45 → 5 days), multimodal ingestion (images, Excel, messaging), AI part matching (~90% straight-through), event-driven multi-tenant backend on Node.js, Go and AWS, disaster-recovery strategy |
 | 2022 – 2023 | **Backend Engineer**, Bondify (Rotterdam, NL) | Template.io contract-drafting engine MVP in two quarters, REST and GraphQL APIs, >90% automated test coverage |
-| 2021 – 2022 | **Backend Engineer**, Jio News | Led the Go → TypeScript re-architecture in two months, serving ~5M users across 12+ languages at sub-200ms latency. Recognized for technical architecture |
+| 2021 – 2022 | **Backend Engineer**, Jio News | Led the Go → Node.js (TypeScript) re-architecture in two months, serving ~5M users across 12+ languages at sub-200ms latency. Recognized for technical architecture |
 | 2020 – 2021 | **Software Engineer**, The Lightning Group | Multi-tenant, white-label home-moving and real-estate SaaS ([Moveable.uk](https://moveable.uk)) with tenant-isolated data and configuration-driven deployments |
 | 2018 – 2020 | **Software Engineer**, Epitome Technologies | [Novagems](https://novage.ms) workforce platform with GPS tracking, geofencing and automated payroll. Scheduling efficiency +70%. Sprint lead |
 | 2016 – 2018 | **Junior Software Engineer**, Igniva Infotech | REST APIs and React Native apps for food delivery, healthcare and EdTech. Best Team Project award |
 
 ---
 
-### What I'm building in public
+### Reference work in public
 
-- **[node22-pnpm-pm2-chromium](https://github.com/the-vishal-kumar/node22-pnpm-pm2-chromium)**: a multi-arch (amd64/arm64) Node 22 base image with pnpm, pm2 and headless Chromium, with [2K+ pulls on Docker Hub](https://hub.docker.com/r/thevishalkumar/node22-pnpm-pm2-chromium)
+Clean-room versions of the patterns I lead at work, built small and finished, with measured results. No employer code or data.
+
+- **[engineering-standards](https://github.com/the-vishal-kumar/engineering-standards)**: the standards kit I'd hand a new team: a reusable CI quality gate, PR/ADR/postmortem templates, release-readiness checklist, on-call and DR runbooks, and how to measure the effect
+- **[tech-strategy-onepager](https://github.com/the-vishal-kumar/tech-strategy-onepager)**: a one-page technology strategy template with a worked (fictional) example: architecture, roadmap, risks, cost model and hiring plan
+- **[multi-tenant-event-driven-ref](https://github.com/the-vishal-kumar/multi-tenant-event-driven-ref)**: multi-tenant order processing with Postgres row-level security, idempotency keys, a transactional outbox to SQS, a Go worker with retries and a DLQ, end-to-end tracing, Terraform for AWS, and a measured load test
+- **[llm-document-ingestion](https://github.com/the-vishal-kumar/llm-document-ingestion)**: purchase orders in any format (email, Excel, PDF, images) to schema-validated JSON, with rules and an LLM, per-field confidence, catalog matching, a human-review queue and a reproducible eval
+
+### Tools I maintain
+
+- **[node22-pnpm-pm2-chromium](https://github.com/the-vishal-kumar/node22-pnpm-pm2-chromium)**: a multi-arch (amd64/arm64) Node 22 base image with pnpm, pm2 and headless Chromium, weekly rebuilt and scanned, with [2K+ pulls on Docker Hub](https://hub.docker.com/r/thevishalkumar/node22-pnpm-pm2-chromium)
 - **[claude-local-api](https://github.com/the-vishal-kumar/claude-local-api)**: a dependency-free Go service that exposes the Claude Code CLI as a local HTTP API, with sandboxed workspaces, schema-validated output and generated OpenAPI docs
-- **[nodejs-typescript-federated-graphql-boilerplate](https://github.com/the-vishal-kumar/nodejs-typescript-federated-graphql-boilerplate)**: Apollo Federation 2 with change-detecting data ingestion, relay pagination, Docker and tests
+- **[ev-charging-federated-graphql](https://github.com/the-vishal-kumar/ev-charging-federated-graphql)**: Apollo Federation 2 with change-detecting data ingestion, relay pagination, Docker and tests
 
 ### Open source
 
