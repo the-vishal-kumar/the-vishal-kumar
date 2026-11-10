@@ -40,6 +40,7 @@ Clean-room versions of the patterns I lead at work: small, finished and tested. 
 - **[tech-strategy-onepager](https://github.com/the-vishal-kumar/tech-strategy-onepager)**: a one-page technology strategy template with a worked (fictional) example: architecture, roadmap, risks, cost model and hiring plan
 - **[multi-tenant-event-driven-ref](https://github.com/the-vishal-kumar/multi-tenant-event-driven-ref)**: multi-tenant order processing with Postgres row-level security, idempotency keys, a transactional outbox to SQS, a Go worker with retries and a DLQ, end-to-end tracing, Terraform for AWS (validated, not applied), and a load test measured locally
 - **[llm-document-ingestion](https://github.com/the-vishal-kumar/llm-document-ingestion)**: purchase orders (email, CSV, Excel, PDF; images with a vision model) to schema-validated JSON, with rules and an LLM, per-field confidence, catalog matching, a human-review queue and a reproducible eval
+- **[database-tradeoffs-lab](https://github.com/the-vishal-kumar/database-tradeoffs-lab)**: runnable demos for my database series, starting with a measured matrix of what PostgreSQL's four isolation levels allow across ten anomalies, pinned by tests
 
 ### Tools I maintain
 
