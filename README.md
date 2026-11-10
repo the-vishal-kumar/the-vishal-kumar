@@ -22,9 +22,9 @@ I lead a 20-engineer organization and own CapGrid's entire infrastructure, while
 
 | Years | Role | Highlights |
 |---|---|---|
-| 2025 – now | **Associate Director of Engineering**, CapGrid | 20 engineers, full infrastructure ownership (promoted from SDE 3), engineering standards (CI/CD, release governance, observability), cloud cost −86%, Big Four tech audit, mentoring senior engineers into tech leads |
+| 2025 – now | **Associate Director of Engineering**, CapGrid | 20 engineers, full infrastructure ownership (promoted from SDE 3), engineering standards (CI/CD, release governance, observability), cloud cost −86%, Big Four tech audit, ERPNext / Frappe ERP from scratch to v16, mentoring senior engineers into tech leads |
 | 2023 – 2025 | **Software Development Engineer 3**, CapGrid | AI order ingestion (45 → 5 days), multimodal ingestion (images, Excel, messaging), AI part matching (~90% straight-through), event-driven multi-tenant backend on Node.js, Go and AWS, disaster-recovery strategy |
-| 2022 – 2023 | **Backend Engineer**, Bondify (Rotterdam, NL) | Template.io contract-drafting engine MVP in two quarters, REST and GraphQL APIs, >90% automated test coverage |
+| 2022 – 2023 | **Backend Engineer**, Bondify (Rotterdam, NL) | Relocated on a Dutch Highly Skilled Migrant permit. Template.io contract-drafting engine MVP in two quarters, REST and GraphQL APIs, >90% automated test coverage |
 | 2021 – 2022 | **Backend Engineer**, Jio News | Led the Go → Node.js (TypeScript) re-architecture in two months, serving ~5M users across 12+ languages at sub-200ms latency. Recognized for technical architecture |
 | 2020 – 2021 | **Software Engineer**, The Lightning Group | Multi-tenant, white-label home-moving and real-estate SaaS ([Moveable.uk](https://moveable.uk)) with tenant-isolated data and configuration-driven deployments |
 | 2018 – 2020 | **Software Engineer**, Epitome Technologies | [Novagems](https://novage.ms) workforce platform with GPS tracking, geofencing and automated payroll. Scheduling efficiency +70%. Sprint lead |
