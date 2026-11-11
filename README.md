@@ -67,5 +67,6 @@ Clean-room versions of the patterns I lead at work: small, finished and tested. 
 
 ---
 
+[![Website](https://img.shields.io/badge/Website-thevishalkumar.com-111111?logo=googlechrome&logoColor=white)](https://thevishalkumar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-the--vishal--kumar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-vishal-kumar/)
 [![X](https://img.shields.io/badge/X-@the__vishalkr-000000?logo=x&logoColor=white)](https://x.com/the_vishalkr)
