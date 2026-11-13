@@ -48,7 +48,7 @@ Clean-room versions of the patterns I lead at work: small, finished and tested. 
 
 - **[node22-pnpm-pm2-chromium](https://github.com/the-vishal-kumar/node22-pnpm-pm2-chromium)**: a multi-arch (amd64/arm64) Node 22 base image with pnpm, pm2 and headless Chromium, weekly rebuilt and scanned, with [2K+ pulls on Docker Hub](https://hub.docker.com/r/thevishalkumar/node22-pnpm-pm2-chromium)
 - **[claude-local-api](https://github.com/the-vishal-kumar/claude-local-api)**: a dependency-free Go service that exposes the Claude Code CLI as a local HTTP API: localhost-only by default (token required beyond it), isolated per-request workspaces, schema-validated output and generated OpenAPI docs
-- **[ev-charging-federated-graphql](https://github.com/the-vishal-kumar/nodejs-typescript-federated-graphql-boilerplate)** (2023): Apollo Federation 2 with change-detecting data ingestion, relay pagination, Docker and tests. Built on Node 18 and Apollo Server 3, both now end-of-life
+- **[ev-charging-federated-graphql](https://github.com/the-vishal-kumar/ev-charging-federated-graphql)** (2023): Apollo Federation 2 with change-detecting data ingestion, relay pagination, Docker and tests. Built on Node 18 and Apollo Server 3, both now end-of-life
 
 ### Open source
 
